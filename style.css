@@ -1,0 +1,51 @@
+html{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: url(pic/bg.jpg);
+    font-family: "ShadowsIntoLight-Regular";
+    src: url(font/ShadowsIntoLight-Regular.ttf) format("ttf")
+  }
+  
+  body{
+    padding: 0;
+    font-stretch: ultra-expanded;
+    font-variant: small-caps;
+    font-weight: bold;
+  }
+
+h1{
+    background-color: rgba(68, 67, 66, 0.459);
+    padding: 25px;
+    width : 97.2%;
+    border: outset 0.2em rgba(0, 0, 0, 0.63);
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 15px rgb(0, 0, 0);
+    font-size: 38px;
+    text-align: center;
+  }
+
+  #page{
+    width: 90%;
+    margin: auto;
+}
+
+p{
+    text-align: justify;
+    color: rgb(139, 138, 138);
+    font-size: 2em;
+    font-weight: bold;
+    text-shadow: 1px 1px black;
+}
+
+h2{
+    text-align: center;
+    font-size: 2.3em;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
