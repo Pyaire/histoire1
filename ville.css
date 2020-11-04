@@ -1,0 +1,52 @@
+html{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: url(pic/bgville.png);
+    font-family: "ShadowsIntoLight-Regular";
+    src: url(font/ShadowsIntoLight-Regular.ttf) format("ttf")
+  }
+  
+  body{
+    padding: 0;
+    font-stretch: ultra-expanded;
+    font-variant: small-caps;
+    font-weight: bold;
+  }
+
+h1{
+    background-color: #1b020073;
+    padding: 25px;
+    width : 97.2%;
+    border: outset 0.2em #6666666c;
+    color: #666666;
+    text-shadow: 0 0 15px rgb(0, 0, 0);
+    font-size: 38px;
+    text-align: center;
+  }
+
+  #page{
+    width: 90%;
+    margin: auto;
+}
+
+p{
+    text-align: justify;
+    color: #666666;
+    font-size: 2em;
+    font-weight: bold;
+    text-shadow: 1px 1px black;
+}
+
+h2{
+    text-align: center;
+    font-size: 2.3em;
+}
+
+a{
+    color: #ff5f00;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: rgb(159, 47, 0);
+}
